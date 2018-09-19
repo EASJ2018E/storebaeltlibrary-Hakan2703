@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:BilletLibrary.Car.#ctor">
+            <summary>
+            This is a class of a car that we need in order to have a price for this kind og vehicle in our ticket sistem
+            </summary>
+        </member>
+    </members>
+</doc>
